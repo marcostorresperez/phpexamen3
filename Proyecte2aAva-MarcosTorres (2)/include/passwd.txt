@@ -1,0 +1,4 @@
+usuari1:contrasenya1:
+maria:d4g5_t6:
+david:123456:
+mati:mati:

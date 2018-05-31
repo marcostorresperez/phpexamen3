@@ -1,0 +1,4 @@
+0-Simarro
+1-Institut
+2-Cicle Formatiu
+3-Desenvolupament d'aplicacions web

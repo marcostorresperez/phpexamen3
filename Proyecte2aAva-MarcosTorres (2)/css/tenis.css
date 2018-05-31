@@ -1,0 +1,103 @@
+body {
+     width: 380px;
+    position: center;
+}
+
+.peu {
+    color:blue;
+    text-align: center;
+    font-size: 16px;
+}
+
+.cap {
+    background-color: cornflowerblue;
+    color: white;
+   border-style:outset;
+}
+
+.contingut {
+    background-image: url(../images/pelotas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h2, h1 {
+    text-align: center;
+}
+
+form {
+border-style:outset;
+}
+
+u {
+    text-decoration: overline;
+}
+
+#envia {
+    color: white;
+    background-color: forestgreen;
+    margin-left: 127px;
+    margin-bottom: 10px;
+}
+
+
+/*------------------EL SEGUENT ES PER AL PHP------------------*/
+
+.php {
+    border: solid 1px black;
+    border-style:  outset;
+    width: 300px;
+    background-image: url(../images/pista.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img .php {
+    width: 100px;
+    height: 100px;
+}
+
+body .php{
+     width: 380px;
+    position: center;
+    text-align: center;
+}
+
+.peu .php{
+    color:blue;
+    text-align: center;
+    font-size: 16px;
+}
+
+.cap .php{
+    background-color: cornflowerblue;
+    color: white;
+   border-style:outset;
+}
+
+h2, h1 .php{
+    text-align: center;
+}
+
+form .php{
+border-style:outset;
+}
+
+u .php{
+    text-decoration: overline;
+}
+
+#punt {
+    width: 150px;
+    height: 30px;
+}
+
+#pito {
+    width: 50px;
+    height: 50px;
+}
+
+li ul {
+    list-style-type: none;
+}
